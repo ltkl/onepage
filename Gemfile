@@ -84,7 +84,7 @@ gem 'airbrake'
 gem 'nokogiri'
 
 # App configuration
-gem 'figaro'
+gem "figaro", "~> 0.7.0"
 
 # Hash extensions
 gem 'hashie'
